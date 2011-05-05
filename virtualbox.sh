@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo apt-get -u virtualbox-ose
+sudo apt-get -y -u virtualbox-ose
 

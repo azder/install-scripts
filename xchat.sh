@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt-get -u install xchat
+sudo apt-get -y -u install xchat

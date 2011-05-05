@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:mozillateam/firefox-stable
-sudo apt-get update && sudo apt-get upgrade
+sudo add-apt-repository -y ppa:mozillateam/firefox-stable
+sudo apt-get -y update && sudo apt-get -y upgrade
 
